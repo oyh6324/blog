@@ -11,7 +11,7 @@ tags:
 
 가상 버튼은 유니티 내부에 있는, ‘buttonName’에 의해 식별되고 있는 버튼을 말한다. 가상 버튼은 유니티 상단의 `Edit-Project Settings-Input Manager`에 들어가면 확인할 수 있다.
 
-![2](/assets/images/unity/unity.input2-2.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.input2-2.jpg){: .align-center}
 _Project Settings의 Input Manager_
 
 위 사진과 같이 Horizon, Vertical 등 다양한 버튼이 등록되어 있는데 사용자 마음대로 바꿀 수 있다. 
