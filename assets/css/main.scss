@@ -6,4 +6,10 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+
+@font-face {
+    font-family: 'ELAND_Choice_M';
+    src: url('/assets/fonts/ELAND_Choice_M.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
