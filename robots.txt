@@ -1,3 +1,0 @@
- User-agent: *
- Allow: /
- Sitemap: https://oyh6324.github.io/blog/sitemap.xml
