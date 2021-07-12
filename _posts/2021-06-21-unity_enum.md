@@ -1,5 +1,5 @@
 ---
-title: "Unity. enum과 switch 사용"
+title: "Unity. C# enum과 switch 사용"
 categories:
   - Unity
 tags:
