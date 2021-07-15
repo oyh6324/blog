@@ -1,5 +1,5 @@
 ---
-title: "C언어. 문자 입력하기(1) - fgets와 fputs"
+title: "C언어. 문자 입력하기 (1) fgets와 fputs"
 categories:
   - C
 tags:
