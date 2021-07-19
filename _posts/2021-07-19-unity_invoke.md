@@ -1,5 +1,5 @@
 ---
-title: "Unity. Invoke와 InvokeRepeating, CancelInvoke 사용하기"
+title: "Unity. C# Invoke와 InvokeRepeating, CancelInvoke 사용하기"
 categories:
   - Unity
 tags:
