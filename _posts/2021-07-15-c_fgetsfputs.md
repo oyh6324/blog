@@ -3,7 +3,7 @@ title: "C언어. 문자 입력하기 (1) fgets와 fputs"
 categories:
   - C
 tags:
-  - C
+  - C언어
   - 프로그래밍 언어
   - 문자 입력 방법
 ---
