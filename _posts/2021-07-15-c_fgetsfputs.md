@@ -5,7 +5,7 @@ categories:
 tags:
   - C언어
   - 프로그래밍 언어
-  - 문자 입력 방법
+  - 문자 입출력 함수
 ---
 
 ## fgets와 fputs
