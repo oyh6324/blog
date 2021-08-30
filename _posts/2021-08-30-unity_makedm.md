@@ -36,7 +36,7 @@ _leftMessage의 컴포넌트_
 
 프로필 사진이 들어갈 이미지 하나 넣고 말풍선이 될 이미지와 그 자식에 텍스트를 넣는다.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm3.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm4.jpg){: .align-center}
 _말풍선 이미지의 컴포넌트_
 
 여기서 중요한 건 피벗을 **0과 1**로 맞춰야 한다는 거! 안 그러면 말풍선에 텍스트가 추가될 때마다 이상한 방향으로 자란다 ㅠ ㅠ
