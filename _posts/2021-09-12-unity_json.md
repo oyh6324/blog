@@ -36,7 +36,7 @@ Newtonsoft.Json은 json을 deserialize하거나 serialize하기 편하게 만든
 
 아무튼 Newtonsoft.Json, 즉, Json.Net을 사용하기 위해서는 아래에 있는 파일을 유니티에 임포트 해야 한다.
 
-https://www.newtonsoft.com/json
+> <https://www.newtonsoft.com/json>
 
 파일을 받으면 net20, 35, 40 등등 여러 개의 파일이 있는데 유니티의 최신 기능이 필요하면 net45의 파일을 이용해야 한다. 그리고 이 파일을 이용하면 반드시 유니티에서 .NET 74.x로 설정해줘야 한다! 무슨 프로젝트 셋팅 들어가면 나옴!
 
@@ -90,6 +90,6 @@ public class MoneyData
 
 리소스 파일에 넣는 텍스트 파일은 일단 엑셀로 데이터 테이블을 만들고 json 형태로 convert 해주는 사이트에서 json 형태로 바꿔 txt로 저장한 것이다.
 
-http://shancarter.github.io/mr-data-converter/
+> <http://shancarter.github.io/mr-data-converter/>
 
 여기!! 완전 편함.
