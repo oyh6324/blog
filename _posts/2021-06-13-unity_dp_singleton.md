@@ -4,7 +4,7 @@ categories:
   - Unity
 tags:
   - Unity
-  - 알고리즘
+  - 디자인 패턴
 ---
 
 ## 🌟 Singleton
