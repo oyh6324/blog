@@ -7,11 +7,11 @@ tags:
   - Unity
 ---
 
-## Vector3.SmoothDamp()
+## 🌟 Vector3.SmoothDamp()
 
 게임을 만들 때 메인 카메라가 어느 정도 거리를 두고 플레이어를 따라 가게 하려면, Rig 오브젝트를 만들어서 메인 카메라를 하위에 두고 일정한 거리를 두게 만들어 Rig 오브젝트가 플레이어를 따라 가게 만드는 방법이 있다. 하지만 이것보다 더 부드러운 움직임을 구사해야 하는 경우가 있는데, 그때 바로 `Vector3.SmoothDamp()`를 사용한다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 public class ExampleClass : MonoBehaviour {

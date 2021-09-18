@@ -7,11 +7,11 @@ tags:
   - Unity
 ---
 
-## Mathf.SmoothDampAngle()
+## 🌟 Mathf.SmoothDampAngle()
 
 시간이 지남에 따라 목표 각도로 향하는 함수다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 using UnityEngine;

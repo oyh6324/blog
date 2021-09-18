@@ -7,7 +7,7 @@ tags:
   - 중급
 ---
 
-## Rigidbody를 사용한 점프
+## 🌟 Rigidbody를 사용한 점프
 
 ```c#
 public class SimpleJump : MonoBehaviour

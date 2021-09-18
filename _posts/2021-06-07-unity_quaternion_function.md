@@ -7,7 +7,7 @@ tags:
   - 기초
 ---
 
-## Quaternion.LookRotation()
+## 🌟 Quaternion.LookRotation()
 
 ```c#
 void Update()
@@ -19,7 +19,7 @@ void Update()
 
 `Quaternion.LookRotation()` 벡터 값에 대해 회전할 수 있도록 하는 함수다. 다시 말해 target 오브젝트 쪽을 바라보게 만들 수 있다. 게임 만들 때 유용할 듯!
 
-##  Quaternion.Lerp()
+## 🌟 Quaternion.Lerp()
 
 ```c#
 void Update()

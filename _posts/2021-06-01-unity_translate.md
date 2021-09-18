@@ -7,11 +7,11 @@ tags:
   - 기초
 ---
 
-## Transform.Translate
+## 🌟 Transform.Translate
 
 `Transform.Translate`는 게임 오브젝트를 벡터값만큼 평행 이동 할 수 있는 함수다. 현재 오브젝트의 위치에서 해당 방향으로 이동한다고 생각하면 될 듯!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 void Update() {

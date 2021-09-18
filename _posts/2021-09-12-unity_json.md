@@ -7,7 +7,7 @@ tags:
   - 데이터 저장
 ---
 
-## json이란?
+## 🌟 json이란?
 
 데이터를 저장하는 파일의 형식이다. 보통
 
@@ -30,7 +30,7 @@ tags:
 
 이런 식으로 생겼다. 많이 사용되기도 하고 관리하기도 편하니 게임 만들 때 자주 쓴다!
 
-## Newtonsoft.Json이란?
+## 🌟 Newtonsoft.Json이란?
 
 Newtonsoft.Json은 json을 deserialize하거나 serialize하기 편하게 만든 라이브러리다. JsonUtility라고 유니티에 내장되어 있는 json 라이브러리도 있는데, 쓰기 불편해서 Newtonsoft.Json을 임포트하는 게 나을 것이다. 물론 json 사용할 일이 별로 없다면 그냥 유니티 json을 쓰면 됨!
 
@@ -40,7 +40,7 @@ Newtonsoft.Json은 json을 deserialize하거나 serialize하기 편하게 만든
 
 파일을 받으면 net20, 35, 40 등등 여러 개의 파일이 있는데 유니티의 최신 기능이 필요하면 net45의 파일을 이용해야 한다. 그리고 이 파일을 이용하면 반드시 유니티에서 .NET 74.x로 설정해줘야 한다! 무슨 프로젝트 셋팅 들어가면 나옴!
 
-## 저장과 불러오기
+## 🌟 저장과 불러오기
 
 ```c#
 public List<MoneyData> moneyDataList;

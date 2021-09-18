@@ -7,7 +7,7 @@ tags:
   - 기초
 ---
 
-## Audio Source
+## 🌟 Audio Source
 
 유니티에서 소리를 낼 수 있게 하는 컴포넌트 중 하나다. Audio Clip을 사용해서 소리를 재생한다. Audio Clip이 3D인 경우, Audio Source와 멀어질수록 소리가 작아진다.
 
@@ -16,7 +16,7 @@ _Audio Source Component_
 
 위 사진의 프로퍼티를 조정하여 볼륨이나 오디오 믹서를 정할 수 있다. 오디오 믹서는 다음에!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
     private AudioSource audioSource;

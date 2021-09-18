@@ -7,11 +7,11 @@ tags:
   - 기초
 ---
 
-## Random.Range()
+## 🌟 Random.Range()
 
 랜덤한 float 수를 반환한다. 이때 안에 정수를 넣으면 정수를, 실수를 넣으면 실수로 값을 반환함!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 void Start()

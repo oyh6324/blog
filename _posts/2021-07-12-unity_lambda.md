@@ -8,11 +8,11 @@ tags:
   - C#
 ---
 
-## 람다식(Lambda Expression)이란?
+## 🌟 람다식(Lambda Expression)이란?
 
 C#에 있는 무명 함수 표현법 중 하나로, `(input-parameters) => { <sequence-of-statements> }` 이런 식으로 사용될 수 있다. 무슨 말인지 잘 모르겠으니 예제를 보자!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 void PrintHello(string name)

@@ -7,11 +7,11 @@ tags:
   - 기초
 ---
 
-## ContextMenu란?
+## 🌟 ContextMenu란?
 
 함수 위에다가 작성하여 인스펙터 창에서 함수를 호출할 수 있게 하는 기능이다. 
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 public class ContextTesting : MonoBehaviour {

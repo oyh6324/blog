@@ -7,11 +7,11 @@ tags:
   - Unity
 ---
 
-## Random.insideUnitSphere
+## 🌟 Random.insideUnitSphere
 
 Random.insideUnitSphere는 Vector3를 반환하며 반경 1의 구 안의 랜덤한 위치를 반환한다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 using UnityEngine;

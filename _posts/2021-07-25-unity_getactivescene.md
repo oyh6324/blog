@@ -7,11 +7,11 @@ tags:
   - Unity
 ---
 
-## GetActiveScene()
+## 🌟 GetActiveScene()
 
 현재 씬이 무슨 씬인지 궁금할 때는 SceneManager.GetActiveScene를 사용하면 알 수 있다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 string sceneName = SceneManager.GetActiveScene().name; //현재 씬의 이름

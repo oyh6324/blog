@@ -8,11 +8,11 @@ tags:
   - C#
 ---
 
-## ScreenCapture.CaptureScreenshot()
+## 🌟 ScreenCapture.CaptureScreenshot()
 
 유니티 내부에는 화면을 캡쳐하는 함수가 따로 있다. `ScreenCapture.CaptureScreenshot(저장할 파일 이름)`을 하면 알아서 프로젝트 폴더에 저장이 된다. 모바일을 Application.persistentDataPath! 하지만 잘 안될 때가 많아 이 함수 대신 다른 방법을 쓰기도 한다.
 
-## 다른 방법
+## 🌟 다른 방법
 
 ```c#
     void SaveScreenPGN(string filePath) //로컬 저장소에 저장

@@ -7,11 +7,11 @@ tags:
   - Unity
 ---
 
-## UnityEvent란?
+## 🌟 UnityEvent란?
 
 `UnityEvent`는 델리게이트를 Unity에서 사용하기 편하게 만든 것이다. 따라서 C#에는 없고 Unity에만 존재한다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 public class ExampleClass : MonoBehaviour

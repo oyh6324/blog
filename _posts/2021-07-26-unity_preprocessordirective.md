@@ -8,11 +8,11 @@ tags:
   - C#
 ---
 
-## 전처리기 지시어란?
+## 🌟 전처리기 지시어란?
 
 컴파일 되기 바로 전에 전처리 작업을 진행 하는데 그때 사용할 수 있는 게 전처리기 지시어다.
 
-## 지시어 종류
+## 🌟 지시어 종류
 
 - **define**: 기호를 정의한다.
 - **undef**: 기호 정의를 해제한다.
@@ -22,14 +22,14 @@ tags:
 - **region**: 코드 블록 지정한다.
 - **endregion**: 블록의 끝을 표시한다.
 
-## 유니티에서 지정한 플랫폼 매크로
+## 🌟 유니티에서 지정한 플랫폼 매크로
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.preprocessor.jpg){: .align-center}
 _유니티 공식 문서_
 
 플랫폼 별로 컴파일 코드를 바꿀 수 있다!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 #if UNITY_EDITOR

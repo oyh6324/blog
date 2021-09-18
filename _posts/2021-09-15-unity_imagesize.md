@@ -7,11 +7,11 @@ tags:
   - UGUI
 ---
 
-## Image
+## 🌟 Image
 
 UI의 Image는 Rect Transform 가지고 있고 여기서 width과 height을 조절할 수 있다. 모든 UGUI는 Rect Transform을 가지고 있음!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 void Start()

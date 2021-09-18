@@ -7,11 +7,11 @@ tags:
   - 기초
 ---
 
-## Destroy()
+## 🌟 Destroy()
 
 `Destroy()`는 원하는 게임 오브젝트를 파괴하는 함수다.
 
-##  사용법
+## 🌟 사용법
 
 ```c#
 void Start()

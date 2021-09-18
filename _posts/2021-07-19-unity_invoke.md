@@ -8,7 +8,7 @@ tags:
   - C#
 ---
 
-## Invoke, InvokeRepeating, CancelInvoke
+## 🌟 Invoke, InvokeRepeating, CancelInvoke
 
 모두 함수를 실행하지만, 지연되게 실행할 수 있는 함수다. 셋 다 기능이 다름!
 

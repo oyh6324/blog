@@ -7,14 +7,14 @@ tags:
   - Unity
 ---
 
-## Physics.SphereCast()
+## 🌟 Physics.SphereCast()
 
 연속하는 구 안의 충돌체를 반환한다.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.spherecast.jpg){: .align-center}
 _푸른 지점의 충돌체를 반환_
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 using UnityEngine;

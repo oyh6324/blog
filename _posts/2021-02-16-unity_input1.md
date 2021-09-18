@@ -7,7 +7,7 @@ tags:
   - 기초
 ---
 
-## 마우스 입력 처리
+## 🌟 마우스 입력 처리
 
 마우스 입력은 기본적으로 세 가지 경우로 나누어서 처리된다. 
 마우스를 누르는 동안 계속 발동되는 `GetMouseButton`과 누르는 순간 발동되는 `GetMouseButtonDown`, 그리고 마우스를 눌렀다가 떼는 순간 발동되는 `GetMouseButtonUp`이 이에 해당한다.
@@ -36,7 +36,7 @@ if (Input.GetMouseButtonUp(2)) //true or false 반환
 - **2**: 마우스 중앙 버튼
 
 
-## 키보드 입력 처리
+## 🌟 키보드 입력 처리
 
 키보드도 마우스와 마찬가지로 키를 누르고 있을 때 발동되는 `GetKey`과 키를 누르는 동안 발동되는 `GetKeyDown`, 눌렀다 뗐을 때 발동되는 `GetKeyUp` 세 가지 경우로 나눌 수 있다.
 

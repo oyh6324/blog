@@ -7,11 +7,11 @@ tags:
   - UGUI
 ---
 
-## Button Event
+## 🌟 Button Event
 
 UI의 Button 오브젝트는 인스펙터 창에서 이벤트를 추가할 수도 있지만, 코드 상에서도 이벤트를 추가할 수 있다. onClick()을 쓰면 됨!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 public Button button;

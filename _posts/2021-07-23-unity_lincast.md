@@ -7,11 +7,11 @@ tags:
   - Unity
 ---
 
-## Physics.Linecast()
+## 🌟 Physics.Linecast()
 
 Raycast와 비슷하다. Raycast는 원하는 방향으로 선을 긋지만, Linecast는 시작 지점과 끝 지점이 명확하게 있어야 선을 그을 수 있다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 using UnityEngine;

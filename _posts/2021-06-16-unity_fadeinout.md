@@ -7,11 +7,11 @@ tags:
   - 중급
 ---
 
-## Fade In/Out
+## 🌟 Fade In/Out
 
 페이드 인은 검은 화면이 투명하게 변하면서 원래의 화면이 보이는 것을 말하고, 페이드 아웃은 원래의 화면에서 검은 화면으로 바뀌는 것을 말한다.
 
-## 코루틴을 사용한 Fade In/Out
+## 🌟 코루틴을 사용한 Fade In/Out
 
 ```c#
 public class FadeIO : MonoBehaviour

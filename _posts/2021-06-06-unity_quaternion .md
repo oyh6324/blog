@@ -7,11 +7,11 @@ tags:
   - 기초
 ---
 
-## Rotation
+## 🌟 Rotation
 
 Rotation 함수는 오브젝트를 회전시킬 수 있다. 
 
-##  Rotation과 Quaternion(쿼터니언) 사용법
+##  🌟 Rotation과 Quaternion(쿼터니언) 사용법
 
 ```c#
 void Update()

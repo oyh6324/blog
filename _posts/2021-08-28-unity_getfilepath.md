@@ -8,11 +8,11 @@ tags:
   - C#
 ---
 
-## Directory.GetFiles()
+## 🌟 Directory.GetFiles()
 
 C#의 Directory.GetFiles(경로, 파일 확장자) 함수를 사용하면 원하는 경로에 있는 파일을 모두 가져올 수 있다. using System.IO를 추가해야 함!
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 void Start()

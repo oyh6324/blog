@@ -7,11 +7,11 @@ tags:
   - UGUI
 ---
 
-## localScale
+## 🌟 localScale
 
 localScale은 부모 오브젝트에 대한 상대적인 크기를 말하며, localScale을 사용하여 이미지의 크기를 스크립트에서 조정할 수 있다. 기본적으로는 `trasform.localScale = new Vector3(1f, 1f,  1f)` 이런 식으로 사용함!
 
-## 코드
+## 🌟 코드
 
 ```c#
     private float size = 1f; //원하는 사이즈

@@ -7,11 +7,11 @@ tags:
   - 기초
 ---
 
-## Rigidbody.AddExplosionForce()
+## 🌟 Rigidbody.AddExplosionForce()
 
 폭발이 일어난 것처럼 폭발점 근처의 오브젝트를 흔들 수 있는? 함수다. 폭발의 힘을 받은 오브젝트 입장에서 사용한다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
     public float radius = 5.0f;

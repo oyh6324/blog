@@ -7,15 +7,15 @@ tags:
   - Unity
 ---
 
-## SerializeField와 HideInInspector 
+## 🌟 SerializeField와 HideInInspector 
 
 SerializeField는 원하는 변수 또는 함수를 인스펙터 창에서도 보일 수 있게 직렬화하는 키워드다. 반대로 HideInInspector는 인스펙터 창에서 원하는 변수 또는 함수를 가려주는 역할을 한다.
 
-## 직렬화란?
+## 🌟 직렬화란?
 
 우리가 볼 수 없는 추상적인 데이터를 볼 수 있고 저장 가능하게 바꾸는 것을 말한다. 이 반대는 **역직렬화**라고 한다.
 
-## 사용법
+## 🌟 사용법
 
 ```c#
 using UnityEngine;
