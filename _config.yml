@@ -20,7 +20,7 @@ title                    : "  yonhonEE "
 title_separator          : "&#124"
 subtitle                 : "  영현아 공부하자 ✨" # site tagline that appears below site title in masthead
 name                     : "oyh6324"
-description              : "개인 기록용 블로그"
+description              : "공부하는 블로그"
 url                      : "https://oyh6324.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oyh6324/oyh6324.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
