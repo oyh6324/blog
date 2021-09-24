@@ -96,7 +96,12 @@ analytics:
 author:
   name             : "oyh6324"
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부하자 📖 "
+  bio              : "공부하자 📖
+<br><br>
+📑 참고 강좌
+<br>📌 레트로의 유니티 C# 게임 프로그래밍 에센스<br>📌 홍정모의 따라하며 배우는 C언어
+<br><br>
+☝ 초기 포스트의 대부분이 강좌 복습용입니다! "
   location         : "South Korea"
   email            : "oyh6324@gmail.com"
   links:
