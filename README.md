@@ -1,1 +1,1 @@
-# oyh6324.github.io/blog
+# oyh6324.github.io/
