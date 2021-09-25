@@ -14,8 +14,7 @@ tags:
 
 ## 🌟 Canvas 설정
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.uiparticle1.jpg){: .align-center}
-_Canvas 설정_
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.uiparticle1.jpg){: .align-center} _Canvas 설정_
 
 우선 캔버스 설정을 저렇게 바꿔야 한다. Render Mode가 `Screen Space - Overlay` 상태라면 죽어도 파티클이 위에 올라오지 않기 때문에 카메라로 바꾸고, 랜더링할 카메라를 가져다 놓는다. 나는 메인 카메라를 두었음! 
 
@@ -23,8 +22,7 @@ _Canvas 설정_
 
 ## 🌟 Particle 설정
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.uiparticle2.jpg){: .align-center}
-_Particle 설정_
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.uiparticle2.jpg){: .align-center} _Particle 설정_
 
 그리고 UI 위에 뿌리고 싶은 파티클 시스템에 들어가서 Renderer 설정에서 파란색 부분, `Sorting Layer ID`를 UI의 레이어보다 높은 것으로 설정하면 이제 파티클이 UI 위에 뿌려질 것이다.
 

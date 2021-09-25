@@ -11,8 +11,7 @@ tags:
 
 카카오톡이랑 더 유사할 것 같지만 아무튼 메시지 화면을 만들어 봤다. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm1.jpg){: .align-center}
-_최종 화면_
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm1.jpg){: .align-center} _최종 화면_
 
 상대방 쪽은 프로필 사진 두라고 비워 놓았고, 말풍선도 비워두었음.
 
@@ -22,8 +21,7 @@ _최종 화면_
 
 그리고 뷰 포트 안의 컨텐트에 `Content Size Fitter`와 `Vertical Layout Group` 컴포넌트를 넣어준다.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm2.jpg){: .align-center}
-_Content의 컴포넌트_
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm2.jpg){: .align-center} _Content의 컴포넌트_
 
 설정은 이렇게!!!!! `Content Size Fitter`는 오브젝트의 사이즈를 자식 사이즈만큼 알아서 늘려주거나 줄여줌. 지금은 Vertical만 조정하도록 했다.
 
@@ -31,13 +29,11 @@ _Content의 컴포넌트_
 
 우선 빈 오브젝트(leftMessage)를 생성해서 화면의 가로 크기만큼 대충 맞춰 주고, `Content Size Fitter`와 `Horizontal Layout Group` 컴포넌트를 넣어준다.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm3.jpg){: .align-center}
-_leftMessage의 컴포넌트_
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm3.jpg){: .align-center} _leftMessage의 컴포넌트_
 
 프로필 사진이 들어갈 이미지 하나 넣고 말풍선이 될 이미지와 그 자식에 텍스트를 넣는다.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm4.jpg){: .align-center}
-_말풍선 이미지의 컴포넌트_
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/unity/unity.makedm4.jpg){: .align-center} _말풍선 이미지의 컴포넌트_
 
 여기서 중요한 건 피벗을 **0과 1**로 맞춰야 한다는 거! 안 그러면 말풍선에 텍스트가 추가될 때마다 이상한 방향으로 자란다 ㅠ ㅠ
 
