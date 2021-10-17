@@ -15,7 +15,7 @@ C++로 넘어 왔다! 예~~
 
 ## 🌟 C++의 진입점(Entry Point)
 
-```c
+```c++
 #include <iostream>
 usnig namespace std;
 
