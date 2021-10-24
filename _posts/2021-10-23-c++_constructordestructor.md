@@ -14,7 +14,7 @@ tags:
 
 
 
-{:. notice--primary}
+{: .notice--primary}
 생성자를 만들지 않으면 자동으로 기본 생성자가 만들어진다!
 
 
