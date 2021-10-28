@@ -1,5 +1,5 @@
 ---
-title: "C++. 멤버 함수 포인터 알아보기"
+title: "C++. 멤버 함수 포인터 알아보기 (1)"
 categories:
   - C++
 tags:
