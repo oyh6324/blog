@@ -26,7 +26,7 @@ for(배열 자료형 변수명: 배열명) {...}
 
 이렇게 하면 원하는 배열이 내가 지정한 변수에 들어가서 for문이 돌 때마다 값이 바뀜!
 
-## 사용법
+## 🌟 사용법
 
 ```java
 public static void main(String[] args) {
