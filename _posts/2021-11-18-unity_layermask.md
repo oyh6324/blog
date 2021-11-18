@@ -1,5 +1,5 @@
 ---
-title: "Java. 레이어 마스크(LayerMask) 알아보기"
+title: "Unity. 레이어 마스크(LayerMask) 알아보기"
 categories:
   - Unity
 tags:
