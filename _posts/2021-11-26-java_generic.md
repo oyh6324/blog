@@ -29,11 +29,11 @@ public class GenericClass <T>
 
 | 표시 | 내용    |
 | ---- | ------- |
-| <T>  | Type    |
-| <E>  | Element |
-| <K>  | Key     |
-| <V>  | Value   |
-| <N>  | Number  |
+| T  | Type    |
+| E  | Element |
+| K  | Key     |
+| V  | Value   |
+| N  | Number  |
 
 
 
