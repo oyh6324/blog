@@ -46,7 +46,7 @@ System.out.println(v.size()); //vector의 크기 출력
 
 LinkedList는 각 노드? 데이터들이 다음 노드와 연결되어 있다. 예전에 C++ 할 때 공부했었는데...아무튼 대충 이런 느낌!
 
-![java.linkedList](C:\Users\younghyun\Documents\GitHub\oyh6324.github.io\assets\images\java\java.linkedList.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/java/java.linkedList.jpg){: .align-center}
 
 다음 노드에 대한 주소값을 가지고 있어서 각 노드는 다음 노드의 위치를 알고 있고, 연결된 것이다. 위 그림은 한쪽 방향으로밖에 안 흘러가지만, 자바는 더블링크드리스트로, 이전 노드의 위치도 알고 있어서 양쪽으로 흘러갈 수 있다.
 
