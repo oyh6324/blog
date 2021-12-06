@@ -64,5 +64,4 @@ public void write() throws IOException{
 ___
 
 {: .primary--notice}
-
-참고 https://bamdule.tistory.com/179
+참고 [https://bamdule.tistory.com/179]
